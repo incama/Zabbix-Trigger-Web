@@ -1,0 +1,16 @@
+body {background: #000 url("../lib/img/z-logo.png") top center; padding: 20px; font-family:Ubuntu, Verdana, Arial;}
+
+td {border:solid 1px #000;padding:8px 6px;font-family:Ubuntu, Verdana, Arial;font-size: 11px;border-radius: 3px;font-weight:normal;}
+th {font-family: Ubuntu, Verdana, Arial; font-size: 12px; color: #fff; font-weight:normal; padding: 10px; border: 1px solid #000; border-radius: 3px;}
+tr {padding: 6px;}
+tr.prio1 {background-color:#8EEC62; }
+tr.prio2 {background-color:#CED110;}
+tr.prio3 {background-color:#D19A10;}
+tr.prio4 {background-color:#D15110; color: #FFF;}
+tr.prio5 {background-color:#A40D0D; color: #FFF;}
+tr.heading {background:#1F1F1F;}
+td.center {text-align:center;}
+#date, #time {color:#fff;}
+#timestamp {position:absolute;}
+#wat {color:#97C2DF; position: relative; left: 350px; top: -35px; font-size: 18px; font-weight: bold;}
+table {position:relative; top: 50px;}
